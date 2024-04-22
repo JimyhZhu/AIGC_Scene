@@ -26,7 +26,3 @@ Infinite Photorealistic Worlds using Procedural Generation
 
 
 Neurosymbolic Models for Computer Graphics
-
-#Notes:
-【腾讯文档】3D, 游戏场景生成
-https://docs.qq.com/mind/DQXBSUXFGUkJtWlpK

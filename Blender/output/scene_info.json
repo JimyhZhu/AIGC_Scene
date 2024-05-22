@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Camera",
+        "type": "CAMERA",
+        "location": {
+            "x": 9.65908432006836,
+            "y": -9.058680534362793,
+            "z": 6.3996734619140625
+        }
+    },
+    {
+        "name": "Cube",
+        "type": "MESH",
+        "location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    {
+        "name": "Light",
+        "type": "LIGHT",
+        "location": {
+            "x": 4.076245307922363,
+            "y": 1.0054539442062378,
+            "z": 5.903861999511719
+        }
+    },
+    {
+        "name": "NewCircle",
+        "type": "MESH",
+        "location": {
+            "x": 3.0,
+            "y": 3.0,
+            "z": 0.0
+        }
+    },
+    {
+        "name": "NewCube",
+        "type": "MESH",
+        "location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    {
+        "name": "NewSphere",
+        "type": "MESH",
+        "location": {
+            "x": -3.0,
+            "y": -3.0,
+            "z": 0.0
+        }
+    }
+]

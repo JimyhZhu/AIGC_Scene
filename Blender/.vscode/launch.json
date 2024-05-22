@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Blender",
+      "type": "python",
+      "request": "launch",
+      "program": "/Users/yonghuizhu/Project/Blender/run_blender_script.sh",
+      "args": ["${file}"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
+
